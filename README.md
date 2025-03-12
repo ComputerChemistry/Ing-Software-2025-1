@@ -7,13 +7,14 @@
 ![Github Database](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Github NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Github Language](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Github TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Github License](https://img.shields.io/badge/MIT-green?style=for-the-badge)
 
 ---
 
 ## :computer: Tecnologias Utilizadas  
 
-- **Lenguaje:** Javascript  
+- **Lenguaje:** Typescript / Javascript  
 - **Editor:** Emacs  
 - **Gestion de dependendencias:** Node.js & npm  
 
