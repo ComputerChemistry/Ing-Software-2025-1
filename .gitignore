@@ -1,0 +1,21 @@
+# -*- mode: gitignore; -*-
+# Node modules
+backend/node_modules/
+
+# Archivos de configuración de dependencias
+backend/package-lock.json
+backend/package.json
+
+# Archivos de configuración del compilador TypeScript
+backend/tsconfig.json
+
+# Archivos de logs
+backend/*.log
+
+# Carpeta de distribución o compilados (si existe)
+backend/dist/
+backend/build/
+
+# Archivos específicos del entorno de desarrollo
+backend/.env
+
